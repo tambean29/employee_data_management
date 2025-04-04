@@ -1,0 +1,15 @@
+# Python virtual environment folders
+venv/
+Lib/
+Scripts/
+Include/
+.env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+db.sqlite3
+*.log
+*.sqlite3
+*.egg-info/
+*.DS_Store
